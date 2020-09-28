@@ -1,1 +1,1 @@
-# cubego-particle-editor
+# babylonjs-particle-editor
